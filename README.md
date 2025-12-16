@@ -19,16 +19,15 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,docker,git,linux" />
 </p>
+## 🛠 Tech Stack
 
-### 🧠 ML / MLOps
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![DagsHub](https://img.shields.io/badge/DagsHub-000000?style=flat&logo=github&logoColor=white)
-![BentoML](https://img.shields.io/badge/BentoML-000000?style=flat)
-![Azure](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+<p align="center">
+  <img src="assets/tech-stack-row1.svg" />
+</p>
 
-- ML: Scikit-learn, XGBoost, PyTorch  
-- Serving: FastAPI, BentoML  
-- MLOps: MLflow, DVC  
+<p align="center">
+  <img src="assets/tech-stack-row2.svg" />
+</p>
 
 ---
 
