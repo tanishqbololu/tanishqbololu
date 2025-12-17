@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Tanishq 👋</h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, ɪ'ᴍ Tanishq! 👋</h1>
+
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
