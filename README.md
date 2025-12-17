@@ -7,7 +7,7 @@
 
 <h3 align="left">AI / ML Engineer | Data Scientist</h3>
 <p align="left">
-  Building strong ML fundamentals and actively working toward production-ready AI systems.
+  Building intelligent systems end-to-end — from data and models to production AI.
 </p>
 
 ## 🚀 What I work on
