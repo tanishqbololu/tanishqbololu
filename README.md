@@ -52,9 +52,9 @@
 <img src="https://skillicons.dev/icons?i=twitter&theme=light" width=40 height=40 alt="kiran__a__n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/taniishq_____" target="_blank">
+<!-- <a href="https://www.instagram.com/taniishq_____" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram&theme=light" width=40 height=40 alt="taniishq_____" style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
 <a href="https://dev.to/tanishqbololu" target="_blank">
 <img src="https://skillicons.dev/icons?i=devto&theme=light" width=40 height=40 alt="dev_kiran" style="margin-bottom: 5px;" />
